@@ -1,0 +1,15 @@
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\bin\Debug\net6.0\BinarySearchTreeProblem.exe
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\bin\Debug\net6.0\BinarySearchTreeProblem.deps.json
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\bin\Debug\net6.0\BinarySearchTreeProblem.runtimeconfig.json
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\bin\Debug\net6.0\BinarySearchTreeProblem.dll
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\bin\Debug\net6.0\BinarySearchTreeProblem.pdb
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\BinarySearchTreeProblem.csproj.AssemblyReference.cache
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\BinarySearchTreeProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\BinarySearchTreeProblem.AssemblyInfoInputs.cache
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\BinarySearchTreeProblem.AssemblyInfo.cs
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\BinarySearchTreeProblem.csproj.CoreCompileInputs.cache
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\BinarySearchTreeProblem.dll
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\refint\BinarySearchTreeProblem.dll
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\BinarySearchTreeProblem.pdb
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\BinarySearchTreeProblem.genruntimeconfig.cache
+D:\RFP\PP\BinarySearchTree\BinarySearchTreeProblem\obj\Debug\net6.0\ref\BinarySearchTreeProblem.dll
